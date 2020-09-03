@@ -2,7 +2,7 @@ version: '3'
 
 services:
   coursematerial:
-    image: juhojo/dockerhy-circleci
+    image: juhojo/docker-hy.github.io
     ports:
       - 4000:80
     container_name: coursematerial
