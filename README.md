@@ -5,3 +5,5 @@ Thank you for your help. If you have any questions send email jami.kousa@helsink
 ## Additionally
 
 I am adding a new commit here to test if the pipeline is setup properly.
+
+Some text to commit.
